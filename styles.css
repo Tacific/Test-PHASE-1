@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+    border: 3px solid green;
+    
+   
+}
+
+#mount-container {
+    display: grid;
+    place-items: center;
+}
+img {
+    width: 500px;
+}
+#midPic{
+    width: 1000px;
+}
