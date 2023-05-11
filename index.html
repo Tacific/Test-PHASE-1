@@ -9,23 +9,28 @@
     <title>CARD</title>
 </head>
 <body>
-    250k
+    <h2>Free Library</h2>
     <header>
-        <p></p>
         <div id="suitCase">
-            <img src="https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783_960_720.jpg" id="midPic" width="300" height="400">
+            <img src="https://cdn.pixabay.com/photo/2016/03/26/22/21/books-1281581_960_720.jpg" id="midPic" width="300" height="400">
             <h1 id="library">Create Library Card</h1>
-            <form id="userForm">
+            <form>
                 <label for="fname">First Name:</label><br>
                 <input type="text" id="fname" name="fname" value=" "><br>
                 <label for="lname">Last Name:</label><br>
                 <input type="text" id="lname" name="lname" value=" "><br><br>
-                <input type="submit" value="Submit">
+                <button id="submitbtn" type="submit">Sumbit</button><br><br>
+                <input type="reset" value="Reset" />
               </form> 
+              
         </div> 
     </header>
-    <main>
+    
+        <h2>Click On Image for Info</h2>
+        <!-- used flex box method to both divs side by side -->
+        <div id="parentDiv">
         <div id="mount-container"></div>
-    </main>
+        <div id="p-Tag"></div>
+        </div>
 </body>
 </html>

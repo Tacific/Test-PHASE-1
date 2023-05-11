@@ -2,38 +2,87 @@
     "mountains": [
       {
         "id": 1,
-        "name": "Everest",
-        "title": "Snow Mountain",
-        "cost": "$4500",
-        "img": "https://cdn.pixabay.com/photo/2016/11/29/07/22/bible-1868070_960_720.jpg"
+        "title": "Title: What is the Legal System",
+        "name": "Author: Johnny Law",
+        "cost": "If Lost: $450",
+        "img": "https://cdn.pixabay.com/photo/2015/04/12/16/33/hammer-719066_960_720.jpg"
       },
       {
         "id": 2,
-        "name": "Topa Topa",
-        "title": "Stone Mountain",
-        "cost": "$1500",
-        "img": "https://cdn.pixabay.com/photo/2018/01/18/20/43/literature-3091212_960_720.jpg"
+        "title": "Title: Digging Up History",
+        "name": "Author: Bobby Diggs",
+        "cost": "If Lost: $150",
+        "img": "https://cdn.pixabay.com/photo/2022/11/08/07/53/generated-7577945_960_720.jpg"
       },
       {
         "id": 3,
-        "name": "Dughla",
-        "title": "Lone Journey",
-        "cost": "$2300",
+        "title":"Title: Lone Journey,",
+        "name": "Author: Zack Lost",
+        "cost": "If Lost: $500",
         "img": "https://cdn.pixabay.com/photo/2015/11/19/21/11/atlas-1052011_960_720.jpg"
       },
       {
         "id": 4,
-        "name": "Mount Ararat",
-        "title": "Farm View",
-        "cost": "$1300",
+        "title": "Title: How to Study",
+        "name": "Author: Lisa A. Student",
+        "cost": "If Lost: $150",
         "img": "https://cdn.pixabay.com/photo/2016/06/01/06/26/open-book-1428428_960_720.jpg"
       },
       {
         "id": 5,
-        "name": "Pienini Mountain",
-        "title": "Green Feilds",
-        "cost": "$1100",
+        "title": "Title: Coffee Reads",
+        "name": "Author: Amanda Roast",
+        "cost": "If Lost: $175",
         "img": "https://cdn.pixabay.com/photo/2015/12/04/09/13/leaves-1076307_960_720.jpg"
-      }
+      },
+      {
+        "id": 6,
+        "title": "Title: Normal Day",
+        "name": "Author: Eric Dee",
+        "cost": "If Lost: $250",
+        "img": "https://cdn.pixabay.com/photo/2015/06/02/12/59/book-794978_960_720.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Title: Sandland,",
+        "name": "Author: Johnny Surf",
+        "cost": "If Lost: $450",
+        "img": "https://cdn.pixabay.com/photo/2016/07/28/20/34/book-1549589_960_720.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Title: The Farmers Escape",
+        "name": "Author: Bobby Feilds",
+        "cost": "If Lost: $150",
+        "img": "https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg"
+      },
+      {
+        "id": 9,
+        "title":"Title: Blood Trials",
+        "name": "Author: Zack Drama",
+        "cost": "If Lost: $500",
+        "img": "https://cdn.pixabay.com/photo/2014/08/16/18/17/book-419589_960_720.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Title: Lone Star",
+        "name": "Author: Lisa Mystery",
+        "cost": "If Lost: $150",
+        "img": "https://cdn.pixabay.com/photo/2019/05/14/21/50/storytelling-4203628_960_720.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Title: Dark Tales",
+        "name": "Author: Amanda Hunted",
+        "cost": "If Lost: $175",
+        "img": "https://cdn.pixabay.com/photo/2016/02/11/15/32/skull-1193784_960_720.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Title: Music to my Ears",
+        "name": "Author: Eric Symp",
+        "cost": "If Lost: $250",
+        "img": "https://cdn.pixabay.com/photo/2020/05/01/14/15/music-sheet-5117328_960_720.jpg"
+    }
     ]
   }
